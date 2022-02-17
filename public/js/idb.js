@@ -42,6 +42,7 @@ request.onerror = function(event) {
 // this function will be executed if we attempt to submit a new budgetItem  and there no 
 // internet connection
 function saveRecord(record) {
+    console.log('Transaction Added to IndexedDB');
     // open a new transaction with the database with read and write permissions
     const transaction = db.transaction(['new_transaction'], 'readwrite');
 
@@ -50,6 +51,7 @@ function saveRecord(record) {
 
     // add record to your store with the add method
     transactionObjectStore.add(record);
+  
 };
 
 
