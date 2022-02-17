@@ -1,25 +1,55 @@
+:root {
+  --pal1: #582f0e;
+  --pal2: #7f4f24;
+  --pal3: #936639;
+  --pal4: #a68a64;
+  --pal5: #b6ad90;
+  --pal6: #c2c5aa;
+  --pal7: #a4ac86;
+  --pal8: #656d4a;
+  --pal9: #414833;
+  --pal10: #333d29;
+}
 body {
   font-size: 120%;
   font-family: Arial;
+  color: var(--pal10);
+  background-color: var(--pal7);
 }
 
-button, input {
+button,
+input {
   font-size: 100%;
   font-family: Arial;
+  background-color: var(--pal5);
+  color: var(--pal10);
 }
 
 table {
   width: 100%;
 }
 
-td, th {
+td {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
+  /* color: var(--pal1); */
+}
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  /* color: var(--pal10); */
+  background-color: var(--pal8);
 }
 
+tr:nth-child(odd) {
+  /* background-color: #dddddd; */
+  background-color: var(--pal6);
+}
 tr:nth-child(even) {
-  background-color: #dddddd;
+  /* background-color: #dddddd; */
+  background-color: var(--pal5);
 }
 
 .error {
@@ -43,6 +73,7 @@ tr:nth-child(even) {
 }
 
 .transactions {
+  color: var(--pal10);
   text-align: left;
   max-height: 300px;
   overflow: auto;
