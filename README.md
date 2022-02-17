@@ -55,6 +55,8 @@ This is both a website and a PWA (Progressive Web App) which allows the user to 
   ## Installation
 
       1. Either Clone from my github, or go to heroku. 
+
+[To try the application on Heroku click here!](https://tgtiburon-budget-anywhere.herokuapp.com/)
 ---
   ## Usage
 

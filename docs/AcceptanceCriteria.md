@@ -80,7 +80,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Grading Requirements
 
-- [] This Challenge is graded based on the following criteria:
+- [x] This Challenge is graded based on the following criteria:
 
 
 
@@ -95,18 +95,18 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Deployment: 32%
 
-- []    Application deployed at live URL
+- [x]    Application deployed at live URL
 
-- []    Application loads with no errors
+- [x]    Application loads with no errors
 
-- []    Application Github URL Submitted
+- [x]    Application Github URL Submitted
 
-- []    Github Repository contains application code
+- [x]    Github Repository contains application code
 
 
 
 ## Application Quality: 15%
-- []    User experience is intuitive and easy to navigate.
+- [x]    User experience is intuitive and easy to navigate.
 
 
 ## Repository Quality: 13%
@@ -118,7 +118,7 @@ SO THAT my account balance is accurate when I am traveling
 
 - [x]    Repository contains multiple descriptive commit messages.
 
-- []    Repository contains quality README file with description, screenshot, and link to deployed application.
+- [x]    Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
 
@@ -126,6 +126,6 @@ SO THAT my account balance is accurate when I am traveling
 ## How to Submit the Challenge
 - [x]    You are required to submit BOTH of the following for review:
 
-- []    The URL of the functional deployed application
+- [x]    The URL of the functional deployed application
 
-- []    The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- [x]    The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
