@@ -72,9 +72,9 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Deploy to Heroku
 
-- []    MongoDB Atlas (review 18.5 Lesson)
+- [x]    MongoDB Atlas (review 18.5 Lesson)
 
-- []    Add Mongoose Validation
+- [x]    Add Mongoose Validation
 
 
 
