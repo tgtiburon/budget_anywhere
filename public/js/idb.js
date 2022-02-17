@@ -53,6 +53,7 @@ function saveRecord(record) {
 };
 
 
+
 function uploadTransaction() {
     // open a transaction on your db
     const transaction = db.transaction(['new_transaction'], 'readwrite');
@@ -89,7 +90,7 @@ function uploadTransaction() {
                     // clear all items in your store
                     transactionObjectStore.clear();
 
-                    alert('All saved transaction have been submitted!');
+                    alert('All saved transactions have been submitted!');
                 })
                 .catch(err => {
                     console.log(err);
