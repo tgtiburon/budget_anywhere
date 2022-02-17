@@ -19,11 +19,11 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Acceptance Criteria
 
-- []    GIVEN a budget tracker without an internet connection
+- [x]    GIVEN a budget tracker without an internet connection
         WHEN the user inputs an expense or deposit
         THEN they will receive a notification that they have added an expense or deposit
 
-- []    WHEN the user reestablishes an internet connection
+- [x]    WHEN the user reestablishes an internet connection
         THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 
@@ -51,23 +51,23 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Web Manifest
 
-- []    mobile first app so include a (manually made) manifest.json which includes:
+- [x]    mobile first app so include a (manually made) manifest.json which includes:
 
-- []    name  
+- [x]    name  
 
-- []    short_name
+- [x]    short_name
 
-- []    icons
+- [x]    icons
 
-- []    theme_color
+- [x]    theme_color
 
-- []    background_color
+- [x]    background_color
 
-- []    start_url
+- [x]    start_url
 
-- []    display
+- [x]    display
 
-- []    Add manifest.json to the root directory of the `public/` directory
+- [x]    Add manifest.json to the root directory of the `public/` directory
         (review 19.5 Lesson)
 
 ## Deploy to Heroku
@@ -85,11 +85,11 @@ SO THAT my account balance is accurate when I am traveling
 
 
 ## Technical Acceptance Criteria: 40%
-- []    Includes Service Worker
+- [x]    Includes Service Worker
 
-- []    Includes Web Manifest
+- [x]    Includes Web Manifest
 
-- []    IndexedDB for offline functionality
+- [x]    IndexedDB for offline functionality
 
 - []   Deployed to Heroku
 
@@ -110,13 +110,13 @@ SO THAT my account balance is accurate when I am traveling
 
 
 ## Repository Quality: 13%
-- []    Repository has a unique name.
+- [x]    Repository has a unique name.
 
-- []    Repository follows best practices for file structure and naming conventions.
+- [x]    Repository follows best practices for file structure and naming conventions.
 
-- []    Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- [x]    Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-- []    Repository contains multiple descriptive commit messages.
+- [x]    Repository contains multiple descriptive commit messages.
 
 - []    Repository contains quality README file with description, screenshot, and link to deployed application.
 
@@ -124,7 +124,7 @@ SO THAT my account balance is accurate when I am traveling
 
 
 ## How to Submit the Challenge
-- []    You are required to submit BOTH of the following for review:
+- [x]    You are required to submit BOTH of the following for review:
 
 - []    The URL of the functional deployed application
 
