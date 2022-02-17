@@ -30,23 +30,23 @@ SO THAT my account balance is accurate when I am traveling
 ## Getting Started:
 
 
-- []    Use IndexedDB to add offline functionality
+- [x]    Use IndexedDB to add offline functionality
         (review 18.4 lesson)
 
-- []    Add a service worker
+- [x]    Add a service worker
         (review 19.4 lesson)
 
-- []    idb.js added to `public/js/`   
+- [x]    idb.js added to `public/js/`   
             
-- []    Add service worker to the route of the `public/` directory
+- [x]    Add service worker to the route of the `public/` directory
 
 ## Once you updated the app it should:
 
-- []    Deposit while offline
+- [x]    Deposit while offline
 
-- []    Enter expenses offline
+- [x]    Enter expenses offline
 
-- []    offline entries added once the app is brought online
+- [x]    offline entries added once the app is brought online
 
 
 ## Web Manifest
