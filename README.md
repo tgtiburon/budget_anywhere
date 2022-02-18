@@ -11,7 +11,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ## Description
 
-This is both a website and a PWA (Progressive Web App) which allows the user to track their budget.  This app integrates the ability to do transactions when you are connected with the internet, but also when you are offline.  It utilizes a service worker to allow for this offline functionality.  In addition, you can install this app on your mobile device or desktop by clicking the symbol in the address bar.
+This is both a website and a PWA (Progressive Web App) which allows the user to track their budget.  This app integrates the ability to do transactions when you are connected with the internet, but also when you are offline.  It utilizes a service worker and IndexedDb to allow for this offline functionality.  In addition, you can install this app on your mobile device or desktop by clicking the symbol in the address bar.
 
 ---
   ## Table of Contents
@@ -36,13 +36,21 @@ This is both a website and a PWA (Progressive Web App) which allows the user to 
 
 ## Features
 
-      1. Progressive Web Application 
+      1. Online and offline functionality 
 
-      2.  MongoDB 
+      2.  Progressive Web Application
 
-      3.  Mongoose 
+      3.  Uses Canvas to generate a visually appealing graph.
 
-      4. Service Worker 
+      4. Progressive Web Application 
+
+      5.  MongoDB 
+
+      6.  Mongoose 
+
+      7. Service Worker 
+
+      8. IndexedDB
 ---
 
 ## Screenshot 

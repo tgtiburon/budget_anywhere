@@ -2,11 +2,6 @@
 
 
 
-Video of app in action:
-
-
-GET routes to return all: 1. categories 2. products, 3. tags
-
 ![](budget_anywhere-mockup.PNG)
 
 
@@ -19,113 +14,113 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Acceptance Criteria
 
-- [x]    GIVEN a budget tracker without an internet connection
+- [xx]    GIVEN a budget tracker without an internet connection
         WHEN the user inputs an expense or deposit
         THEN they will receive a notification that they have added an expense or deposit
 
-- [x]    WHEN the user reestablishes an internet connection
+- [xx]    WHEN the user reestablishes an internet connection
         THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 
 ## Getting Started:
 
 
-- [x]    Use IndexedDB to add offline functionality
+- [xx]    Use IndexedDB to add offline functionality
         (review 18.4 lesson)
 
-- [x]    Add a service worker
+- [xx]    Add a service worker
         (review 19.4 lesson)
 
-- [x]    idb.js added to `public/js/`   
+- [xx]    idb.js added to `public/js/`   
             
-- [x]    Add service worker to the route of the `public/` directory
+- [xx]    Add service worker to the route of the `public/` directory
 
 ## Once you updated the app it should:
 
-- [x]    Deposit while offline
+- [xx]    Deposit while offline
 
-- [x]    Enter expenses offline
+- [xx]    Enter expenses offline
 
-- [x]    offline entries added once the app is brought online
+- [xx]    offline entries added once the app is brought online
 
 
 ## Web Manifest
 
-- [x]    mobile first app so include a (manually made) manifest.json which includes:
+- [xx]    mobile first app so include a (manually made) manifest.json which includes:
 
-- [x]    name  
+- [xx]    name  
 
-- [x]    short_name
+- [xx]    short_name
 
-- [x]    icons
+- [xx]    icons
 
-- [x]    theme_color
+- [xx]    theme_color
 
-- [x]    background_color
+- [xx]    background_color
 
-- [x]    start_url
+- [xx]    start_url
 
-- [x]    display
+- [xx]    display
 
-- [x]    Add manifest.json to the root directory of the `public/` directory
+- [xx]    Add manifest.json to the root directory of the `public/` directory
         (review 19.5 Lesson)
 
 ## Deploy to Heroku
 
-- [x]    MongoDB Atlas (review 18.5 Lesson)
+- [xx]    MongoDB Atlas (review 18.5 Lesson)
 
-- [x]    Add Mongoose Validation
+- [xx]    Add Mongoose Validation
 
 
 
 ## Grading Requirements
 
-- [x] This Challenge is graded based on the following criteria:
+- [xx] This Challenge is graded based on the following criteria:
 
 
 
 ## Technical Acceptance Criteria: 40%
-- [x]    Includes Service Worker
+- [xx]    Includes Service Worker
 
-- [x]    Includes Web Manifest
+- [xx]    Includes Web Manifest
 
-- [x]    IndexedDB for offline functionality
+- [xx]    IndexedDB for offline functionality
 
-- []   Deployed to Heroku
+- [xx]   Deployed to Heroku
 
 ## Deployment: 32%
 
-- [x]    Application deployed at live URL
+- [xx]    Application deployed at live URL
 
-- [x]    Application loads with no errors
+- [xx]    Application loads with no errors
 
-- [x]    Application Github URL Submitted
+- [xx]    Application Github URL Submitted
 
-- [x]    Github Repository contains application code
+- [xx]    Github Repository contains application code
 
 
 
 ## Application Quality: 15%
-- [x]    User experience is intuitive and easy to navigate.
+- [xx]    User experience is intuitive and easy to navigate.
 
 
 ## Repository Quality: 13%
-- [x]    Repository has a unique name.
+- [xx]    Repository has a unique name.
 
-- [x]    Repository follows best practices for file structure and naming conventions.
+- [xx]    Repository follows best practices for file structure and naming conventions.
 
-- [x]    Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- [xx]    Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-- [x]    Repository contains multiple descriptive commit messages.
+- [xx]    Repository contains multiple descriptive commit messages.
 
-- [x]    Repository contains quality README file with description, screenshot, and link to deployed application.
+- [xx]    Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
 
 
 ## How to Submit the Challenge
-- [x]    You are required to submit BOTH of the following for review:
+- [xx]    You are required to submit BOTH of the following for review:
 
-- [x]    The URL of the functional deployed application
+- [xx]    The URL of the functional deployed application
 
-- [x]    The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- [xx]    The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
